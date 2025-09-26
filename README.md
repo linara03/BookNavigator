@@ -1,12 +1,12 @@
  # Book Navigator - Intelligent Book Recommendation System
 
-Welcome to *Book Navigator, an intelligent book recommendation system that helps readers discover their next favorite book! Using **AI agents, semantic search, and natural language processing*, this system provides personalized recommendations based on what you want to read, your preferred genre, emotional tone, and book ratings.
+Welcome to Book Navigator, an intelligent book recommendation system that helps readers discover their next favorite book! Using *AI agents, semantic search, and natural language processing*, this system provides personalized recommendations based on what you want to read, your preferred genre, emotional tone, and book ratings.
 
 ---
 
 ## Project Overview
 
-Book Navigator is designed with *agentic AI principles, meaning it uses multiple intelligent agents that **communicate and collaborate* to deliver recommendations. Unlike a simple search engine, this system analyzes multiple dimensions of books to provide *personalized and meaningful suggestions*.
+Book Navigator is designed with agentic AI principles, meaning it uses multiple intelligent agents that *communicate and collaborate* to deliver recommendations. Unlike a simple search engine, this system analyzes multiple dimensions of books to provide *personalized and meaningful suggestions*.
 
 ### Main Agents
 
