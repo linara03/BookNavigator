@@ -120,7 +120,7 @@ with gr.Blocks(theme=gr.themes.Soft(primary_hue="cyan", secondary_hue="gray")) a
     gr.Markdown(
         """
         <div style="text-align:center; color:#6B7280; padding:15px; font-size:14px;">
-            🚀 Powered by Sentence Transformers + Gradio | Developed by Team <b>SYNERGY</b>
+            🚀 Powered by Sentence Transformers + Gradio | Developed by Team <b>SYNERGY </b>
         </div>
         """
     )
